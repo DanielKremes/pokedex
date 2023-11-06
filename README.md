@@ -1,13 +1,10 @@
 # Criando um Projeto com HTMLCSS para Listagem de Pokémon
 
-# Preview project pokedex
-
-Preview mobile:
+# Preview mobile
 ![Alt text](preview_mobile.png)
 
-Preview desktop:
+## Preview desktop:
 ![Alt text](preview_desktop.png)
-
 
 # Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kremes-94919227b/)
