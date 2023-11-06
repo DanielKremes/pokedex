@@ -1,10 +1,7 @@
 # Criando um Projeto com HTMLCSS para Listagem de Pokémon
 
-## Preview mobile
-![Alt text](preview_mobile.png)
-
-## Preview desktop:
-![Alt text](preview_desktop.png)
+## Website project
+![Alt text](preview.png)
 
 # Link project
 [Pokedex](https://danielkremes.github.io/pokedex/)
