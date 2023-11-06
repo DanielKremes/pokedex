@@ -6,11 +6,11 @@
 ## Preview desktop:
 ![Alt text](preview_desktop.png)
 
+# Link project
+[Pokedex](https://danielkremes.github.io/pokedex/)
+
 # Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kremes-94919227b/)
-
-# Link project to github
-[Pokedex](https://danielkremes.github.io/pokedex/)
 
 # Links uteis:
 💻 [DIO Code your global future now!](https://www.dio.me/)
