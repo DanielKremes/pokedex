@@ -1,6 +1,6 @@
 # Criando um Projeto com HTMLCSS para Listagem de Pokémon
 
-# Preview mobile
+## Preview mobile
 ![Alt text](preview_mobile.png)
 
 ## Preview desktop:
