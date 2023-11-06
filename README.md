@@ -3,6 +3,9 @@
 # Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kremes-94919227b/)
 
+# Link project to github
+[Pokedex](https://danielkremes.github.io/pokedex/)
+
 # Links uteis:
 💻 [DIO Code your global future now!](https://www.dio.me/)
 
@@ -14,6 +17,3 @@
 
 # Link to personlaziation emoji in github
 👍 [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
-
-# Link project to github
-[Pokedex](https://danielkremes.github.io/pokedex/)
