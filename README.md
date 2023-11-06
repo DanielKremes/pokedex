@@ -4,6 +4,9 @@
 ![Alt text](preview.png)
 [Pokedex](https://danielkremes.github.io/pokedex/)
 
+
+[![Pokedex](preview.png)](https://danielkremes.github.io/pokedex/)
+
 # Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kremes-94919227b/)
 
