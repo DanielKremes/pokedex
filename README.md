@@ -6,6 +6,8 @@
 # Link project to github
 [Pokedex](https://danielkremes.github.io/pokedex/)
 
+![Alt text](image.png)
+
 # Links uteis:
 💻 [DIO Code your global future now!](https://www.dio.me/)
 
